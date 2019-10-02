@@ -1,0 +1,2 @@
+As the size of whole project was large therefore, here only .py files are uploaded that can be merged to any python project or the code can be copied and 
+pasted to anyother project. The data files are also uploaded, in coding just need to change the path of files.
